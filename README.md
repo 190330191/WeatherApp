@@ -1,0 +1,4 @@
+# WeatherApp - Prudhvi
+=> This Project outcome shows the details about the Weather Forecast.
+=> In this project we’ll build a simple Django app that displays the current weather for various cities. To get the current weather data, we’ll use the Open Weather Map API.
+=> Now we have a way to keep track of the weather for multiple cities in our app. In this project, we had to work with various parts of Django to get this working: views, models, forms, and templates. We also had to use the Python library requests to get the actual weather data. So even though the app is simple, you’ll use many of the same concepts in apps with more complexity.
